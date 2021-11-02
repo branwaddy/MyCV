@@ -1,0 +1,43 @@
+@import url(https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js);
+
+p {
+    font-family: 'Roboto';
+    font-size: 24px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Roboto';
+    font-size: 45px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Roboto';
+    font-size: 40px;
+    text-align: center;
+    font-style: italic;
+}
+
+h3 {
+    font-family: 'Roboto';
+    font-size: 30px;
+    text-align: center;
+}
+
+a {
+    font-family: 'Roboto';
+    font-size: 24px;
+    text-align: center;
+    display: block;
+}
+
+ul {
+    font-family: 'Roboto';
+    font-size: 24px;
+    text-align: center;
+}
+
+hr {
+    border-color: black;
+}
